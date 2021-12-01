@@ -10,17 +10,10 @@ namespace AdventOfCode2021.DayCodeBase
 			var data = GetData()
 				.Select(int.Parse)
 				.ToArray();
-			for (var i = 0; i < data.Length; ++i)
-			{
-				for (var j = 0; j < data.Length; ++j)
-				{
-					if (i != j && data[i] + data[j] == 2020)
-					{
-						return (data[i] * data[j]).ToString();
-					}
-				}
-			}
-			return "error";
+			return Enumerable.Range(1, data.Length - 1)
+				.Where(i => data[i-1] < data[i])
+				.Count()
+				.ToString();
 		}
 
 
@@ -29,20 +22,14 @@ namespace AdventOfCode2021.DayCodeBase
 			var data = GetData()
 				.Select(int.Parse)
 				.ToArray();
-			for (var i = 0; i < data.Length; ++i)
-			{
-				for (var j = 0; j < data.Length; ++j)
-				{
-					for (var k = 0; k < data.Length; ++k)
-					{
-						if (i != j && i != k && j != k && data[i] + data[j] + data[k] == 2020)
-						{
-							return (data[i] * data[j] * data[k]).ToString();
-						}
-					}
-				}
-			}
-			return "error";
+			var windows = Enumerable.Range(2, data.Length - 2)
+				.Select(i => data[i - 2] + data[i - 1] + data[i])
+				.ToArray();
+
+			return Enumerable.Range(1, windows.Length - 1)
+				.Where(i => windows[i - 1] < windows[i])
+				.Count()
+				.ToString();
 		}
 	}
 }
