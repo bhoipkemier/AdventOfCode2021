@@ -1,1138 +1,601 @@
-﻿eyr:2028 iyr:2016 byr:1995 ecl:oth
-pid:543685203 hcl:#c0946f
-hgt:152cm
-cid:252
-
-hcl:#733820 hgt:155cm
-iyr:2013 byr:1989 pid:728471979
-ecl:grn eyr:2022
-
-hgt:171cm
-iyr:2013 pid:214368857 hcl:#cfa07d byr:1986 eyr:2028 ecl:grn
-
-hgt:167cm cid:210 ecl:brn pid:429131951 hcl:#cfa07d eyr:2029 iyr:2010
-byr:1945
-
-hcl:#888785 iyr:2015
-hgt:170cm pid:893805464 ecl:amb byr:1966 eyr:2028
-
-hgt:170cm ecl:amb
-hcl:#c0946f eyr:2020 iyr:2016 pid:725010548
-byr:1928
-
-byr:1999 hcl:#888785
-eyr:2026
-ecl:hzl
-iyr:2016 hgt:193cm pid:170608679
-
-eyr:2024 iyr:2016 hcl:#cfa07d ecl:grn byr:2001 pid:391942873 cid:104 hgt:164cm
-
-iyr:2019
-eyr:2025 pid:138912840 byr:1996
-hgt:166cm
-hcl:#888785 ecl:grn
-
-iyr:2023 hcl:a58381 pid:#401a29 eyr:1940
-byr:1920
-ecl:utc hgt:183cm
-
-pid:493510244 ecl:gry hgt:153cm byr:1950 cid:181 eyr:2028
-hcl:#ceb3a1
-iyr:2020
-
-iyr:2018 pid:074340974 hgt:182cm
-hcl:#866857 byr:1988 ecl:hzl eyr:2023
-
-hcl:#866857 ecl:oth byr:1977 iyr:2014 hgt:180cm pid:860745884
-eyr:2023
-
-eyr:2026 pid:815594641
-ecl:gry iyr:2012 byr:1992 hgt:161cm hcl:#b6652a
-
-ecl:gry cid:338 eyr:2021 pid:777099878 hgt:193cm hcl:#efcc98
-byr:1945
-iyr:2015
-
-iyr:2016 byr:1934 hcl:#b6652a
-hgt:162cm ecl:hzl
-cid:296
-pid:742610207
-eyr:2022
-
-ecl:#ba3242
-hgt:80 byr:1931
-pid:550004054 iyr:1949 eyr:1944 hcl:fb3859
-
-ecl:amb eyr:2024
-byr:1965 iyr:2010 pid:094059049
-hcl:#fffffd
-hgt:168cm
-
-pid:159cm
-iyr:1923 eyr:2032 hcl:701107 cid:343 ecl:gmt byr:2010
-hgt:177cm
-
-eyr:2021
-ecl:grn byr:1991
-hcl:#fffffd hgt:167cm pid:243218792 iyr:2019
-
-hgt:157cm byr:2017 ecl:grn iyr:2012
-eyr:2030 hcl:#18171d pid:173cm
-
-pid:260101979 hgt:187cm eyr:2033 ecl:lzr
-byr:2020 hcl:1058ce cid:133 iyr:2012
-
-hcl:#7d3b0c
-pid:307828343 byr:2001
-cid:317 iyr:2013
-eyr:2029
-
-pid:472940417 eyr:1960
-hgt:181cm hcl:#c0946f cid:269
-byr:2014
-iyr:1956
-
-hcl:#18171d eyr:2021 byr:2001 pid:421443124
-ecl:brn iyr:2020 hgt:156cm
-
-cid:347 hgt:60in pid:359783692 byr:1932
-ecl:hzl
-eyr:2023
-hcl:#888785 iyr:2019
-
-pid:230915137
-byr:1999
-iyr:2011 eyr:2020 hcl:#7d3b0c ecl:hzl
-hgt:164cm
-
-iyr:1989
-byr:2008
-hgt:154cm
-eyr:2028 pid:280298169
-cid:208
-ecl:oth
-
-byr:1954 iyr:2017
-ecl:hzl
-eyr:2026
-pid:966957581 hgt:175cm hcl:#18171d
-
-pid:308053355 hgt:192cm eyr:2022 ecl:amb cid:146 iyr:2015
-byr:1991 hcl:#c0946f
-
-hcl:#a97842 pid:244441133 iyr:2019
-hgt:182cm
-ecl:amb cid:172 byr:1973 eyr:2029
-
-iyr:2017
-byr:1985 cid:215
-ecl:blu hcl:#623a2f hgt:160cm pid:157856689 eyr:2030
-
-eyr:2027 ecl:#d72f9b hgt:162cm
-iyr:2018 hcl:#a97842
-byr:1945
-pid:131243258
-
-hcl:#b3f2f0 pid:204254353 cid:169 eyr:2020
-iyr:2013 hgt:172cm ecl:blu byr:1950
-
-byr:1957 hcl:#c0946f hgt:152cm ecl:blu eyr:2027 pid:325917033
-iyr:2010
-
-ecl:oth byr:1950 hgt:166cm pid:007352351
-hcl:#b6652a
-iyr:2020
-eyr:2024
-
-hgt:165 eyr:2030 iyr:2027
-ecl:#1a34f1 pid:2894591864 byr:2024 hcl:z
-
-byr:1971 ecl:oth
-hgt:163cm eyr:2021 pid:040443396
-
-hgt:177cm
-byr:1955 pid:585735590 iyr:2010 ecl:grn eyr:2024
-hcl:#602927
-
-cid:74
-iyr:2010
-pid:014378493 hgt:174cm eyr:2020
-ecl:grn byr:1944
-
-pid:404141049
-byr:1947 ecl:blu hgt:170cm iyr:2011
-eyr:2028
-hcl:#cfa07d
-
-ecl:hzl byr:1938 pid:235085606 cid:180 hcl:8fb74c eyr:2021 hgt:73 iyr:2015
-
-pid:860077423 ecl:gry
-hcl:#3e845b
-hgt:167cm byr:1933 iyr:2016 eyr:2021
-
-hcl:#733820 hgt:66in eyr:1920
-ecl:oth byr:1941 pid:979460474 iyr:2010
-cid:247
-
-hcl:#cfa07d ecl:#13bd36 hgt:193cm eyr:2027 pid:181cm byr:1952 iyr:1951
-
-ecl:brn hcl:#602927
-hgt:161cm
-eyr:2027 pid:822749462 byr:1946
-iyr:2014
-
-byr:2013
-iyr:2021 ecl:zzz eyr:2032 hgt:193in hcl:#a97842 pid:163cm
-
-eyr:2029 cid:140
-byr:1984
-iyr:2018 hgt:187cm hcl:#b6652a pid:910674579
-
-ecl:hzl hgt:173cm pid:096026282
-iyr:2014 byr:1956
-eyr:2029 hcl:#866857
-
-eyr:2024 iyr:2019 pid:301205967
-cid:276 byr:1957 hcl:#3fec29 ecl:gry hgt:165cm
-
-iyr:2013 ecl:oth hgt:177cm hcl:#6b5442 eyr:2021 byr:1962 pid:006347857
-
-ecl:grt byr:1983 hcl:#cfa07d
-hgt:163cm
-eyr:1979
-iyr:1958 pid:796395720
-
-iyr:2011 pid:415403544 hcl:#c0946f byr:1990 ecl:oth eyr:2023 hgt:73in
-cid:107
-
-hgt:166cm eyr:2029 iyr:2015
-hcl:#c0946f ecl:brn
-byr:1964
-pid:469449137
-
-eyr:2023
-byr:1969 iyr:2010 hgt:163cm hcl:#a97842 pid:570942274
-ecl:blu
-
-hcl:#623a2f
-ecl:brn hgt:183cm pid:524675399
-eyr:2020 iyr:2012 byr:1981
-
-iyr:2017 hcl:#fffffd eyr:2026
-ecl:gry byr:1979 hgt:152cm pid:505790864
-
-hgt:68in
-hcl:#c0946f iyr:2012
-eyr:2023 pid:933562997 byr:1993
-ecl:grn
-
-pid:267705171
-hgt:166cm byr:1970 iyr:2019 hcl:#341e13 ecl:oth
-eyr:2030
-
-ecl:brn byr:1972 eyr:2026 pid:774637408 hgt:189cm iyr:2015 hcl:#341e13
-
-hgt:175cm eyr:2026 byr:2001 iyr:2020
-hcl:#733820 ecl:blu pid:686996160
-
-hgt:190cm hcl:#c0946f pid:228444464 byr:1987
-iyr:2020 eyr:2030
-ecl:blu
-
-byr:1990 hgt:179cm
-pid:885359438 eyr:2028 iyr:2010 ecl:amb
-hcl:#67067e
-
-byr:1945 hcl:#866857 eyr:2022 iyr:2019
-pid:708146656 cid:65
-hgt:172cm ecl:brn
-
-ecl:hzl hgt:191cm
-cid:260 pid:010716679 iyr:2011 eyr:2029 byr:1920 hcl:#efcc98
-
-iyr:2012
-cid:313 pid:264894705 byr:1951 hcl:#733820 eyr:2030 ecl:blu
-hgt:178cm
-
-eyr:2027 pid:790510379
-iyr:2013
-ecl:amb
-hgt:186cm
-hcl:#866857
-byr:1926
-
-pid:535750794 hgt:191cm iyr:2016 hcl:#a97842 eyr:2029
-ecl:hzl byr:1923
-
-byr:2023 pid:#eb4c2a iyr:1939 ecl:grn hcl:06d729 hgt:73 eyr:2038
-
-pid:792365221 iyr:2013 ecl:oth
-byr:1997
-hgt:170cm hcl:#efcc98
-eyr:2022
-
-hgt:192cm pid:874141668
-byr:1957 iyr:2015
-ecl:gry
-
-hcl:#b6652a pid:770238761 eyr:2029 byr:1934 iyr:2013
-ecl:blu cid:177
-hgt:184cm
-
-ecl:hzl eyr:2024 hgt:72in pid:546439165
-iyr:2013
-hcl:#c0946f cid:223 byr:1989
-
-byr:1985
-ecl:utc pid:#ff1cbf
-iyr:2018 hcl:#866857 hgt:169cm eyr:2026 cid:194
-
-hgt:189cm
-eyr:2026 pid:120642045 ecl:blu
-hcl:#602927 cid:177
-byr:1954 iyr:2012
-
-pid:314624973
-byr:1959 iyr:2015 hcl:#c0946f ecl:grn
-eyr:2027 cid:349 hgt:156cm
-
-byr:1978
-iyr:2020 hgt:150cm cid:266 eyr:2026
-pid:443912835 hcl:#b6652a
-
-hgt:174cm byr:1974 pid:729198828
-ecl:brn iyr:2014
-hcl:#18171d eyr:2027
-
-pid:472891001 ecl:xry
-hgt:96 hcl:1b816a iyr:1954
-byr:2015 eyr:2037
-
-byr:1966 eyr:2022
-iyr:2014
-pid:848187688 hcl:#602927 ecl:gry hgt:152cm
-
-hgt:129 eyr:2037 cid:61 iyr:2009 byr:2027 hcl:#c0946f
-pid:3569865
-ecl:#4e3d72
-
-ecl:gry
-eyr:2021 pid:234525998 byr:1964 hgt:168cm cid:140
-hcl:#7d3b0c iyr:2013
-
-ecl:xry
-cid:86
-hgt:172in
-byr:1972
-iyr:2015 hcl:#7d3b0c pid:833809421 eyr:2030
-
-pid:444365280 hgt:72in
-ecl:brn
-hcl:#b6652a byr:1985 eyr:2027 iyr:2012
-
-iyr:2010 byr:2013 hgt:181cm eyr:2021
-pid:072317444
-ecl:oth hcl:#866857
-cid:118
-
-pid:4354408888 iyr:2012
-hcl:#b6652a cid:104
-hgt:96 eyr:2020
-byr:1933 ecl:amb
-
-eyr:2023 ecl:gry hcl:#a97842 pid:287719484 byr:1994
-iyr:2011 hgt:163cm cid:299
-
-byr:1932
-hgt:170cm
-iyr:2014 pid:777844412 eyr:2040 hcl:#cfa07d ecl:brn
-
-cid:160 hgt:191cm eyr:2020 iyr:2012
-ecl:brn byr:1981 pid:077027782
-
-cid:182 hgt:176cm hcl:#7d3b0c
-eyr:2030 ecl:blu pid:096742425 iyr:2010 byr:1963
-
-byr:2010 cid:337 hcl:z pid:525126586 iyr:2010 hgt:73cm eyr:2040 ecl:blu
-
-ecl:gry
-iyr:2017
-hgt:185cm hcl:#6b5442 byr:1993
-eyr:2029 pid:366083139 cid:343
-
-eyr:2028 ecl:amb
-pid:878658841 byr:1960 hgt:179cm hcl:#18171d iyr:2010
-
-pid:537309261 iyr:2015 hgt:187cm
-hcl:#4fe831 eyr:2026
-ecl:blu byr:1982
-
-ecl:brn hgt:163cm
-eyr:2021 hcl:#6b5442 byr:1979 iyr:2013 pid:924759517
-
-pid:683651053 hcl:#179c55
-ecl:blu byr:1989 hgt:190cm
-iyr:2016
-eyr:2030
-
-ecl:grn
-iyr:2016 hcl:#b6652a
-byr:1994 eyr:2020 pid:448424292 hgt:174cm
-
-hgt:157cm
-ecl:grn
-byr:2000
-pid:734707993 hcl:#341e13 iyr:2020
-
-hcl:#341e13 hgt:156cm iyr:2020 pid:299213638
-byr:1947 ecl:hzl eyr:2023
-
-hgt:193cm hcl:#b6652a iyr:2014 ecl:hzl byr:1947 eyr:2025
-pid:044486467
-
-byr:1975
-hgt:159cm
-ecl:grn pid:318489576 eyr:2029 hcl:#6b5442
-iyr:2020
-
-iyr:2018 pid:512971930
-hcl:#888785 byr:1966 eyr:2024 hgt:158cm
-cid:100 ecl:gry
-
-ecl:amb eyr:2030 hgt:171cm hcl:#efcc98 pid:800921581 cid:339 byr:1980 iyr:2017
-
-iyr:2019 cid:172
-hgt:152cm
-eyr:2022 ecl:oth hcl:#602927 byr:1960
-
-iyr:2019 pid:762312913
-eyr:2029
-ecl:hzl
-hcl:#6b5442
-byr:1940
-hgt:169cm cid:289
-
-eyr:2022 ecl:gry byr:1976
-iyr:2020 hcl:#733820 hgt:172cm pid:040331561
-
-hgt:171cm ecl:brn iyr:2013 eyr:2027 byr:1940 hcl:#a6e32a pid:223986941
-
-hcl:#341e13
-eyr:2028 ecl:amb byr:1942
-hgt:166cm pid:435382099 iyr:2020
-
-cid:298 pid:641326891
-hgt:155cm hcl:#623a2f ecl:grn byr:1981 eyr:2025
-iyr:2010
-
-iyr:2015 pid:472000322 eyr:2021 byr:1977
-ecl:gry hgt:165cm cid:270
-
-eyr:2027 byr:1956
-pid:193087729 hcl:#ceb3a1
-cid:213 hgt:193cm ecl:oth
-
-iyr:2014
-byr:1971 cid:96
-hgt:74in
-pid:136003336
-eyr:2020 ecl:hzl hcl:#efcc98
-
-hcl:z pid:097595072 ecl:amb
-iyr:2015 byr:2021
-eyr:2039 hgt:188cm
-
-pid:74823273
-hcl:#341e13
-cid:166 hgt:182cm byr:2026 iyr:2027 ecl:amb
-eyr:2032
-
-byr:1932 eyr:2022 pid:367248062 hgt:182cm ecl:oth hcl:#c0946f
-iyr:2020
-
-hgt:72cm
-iyr:2015 cid:234 byr:2013
-ecl:brn pid:9401866358
-
-pid:022399779 iyr:2010 byr:1969 hcl:#6b5442
-ecl:grn eyr:2020
-hgt:189cm
-
-byr:1971 iyr:2011 cid:161 ecl:brn hgt:153cm
-eyr:2028 pid:819137905 hcl:#cfa07d
-
-cid:161 hgt:159cm iyr:2011 pid:815860793 hcl:#a97842 ecl:grn byr:1972 eyr:2027
-
-ecl:amb
-hgt:118 byr:1981 iyr:2019
-hcl:#a97842 eyr:2021 pid:270790642
-
-hcl:#b6652a pid:732272914 eyr:2030 hgt:183cm ecl:hzl
-byr:1934
-iyr:2018
-
-eyr:2027
-pid:877388498 hcl:#ceb3a1
-byr:1925 cid:236 ecl:grn
-iyr:2019 hgt:191cm
-
-eyr:2020 ecl:brn hcl:#fffffd hgt:181cm pid:801311341 byr:1986 iyr:2010
-
-byr:1925 cid:179 ecl:hzl pid:360641953 eyr:2030
-hgt:171in iyr:2015
-hcl:#602927
-
-cid:83 hgt:181cm
-eyr:2028 byr:1941 pid:165937945 hcl:#888785 iyr:2014
-ecl:grn
-
-hcl:#a97842 byr:1928
-iyr:2013
-pid:870072019 hgt:76in
-ecl:oth cid:127 eyr:2026
-
-cid:169
-hgt:187cm pid:008180128 iyr:2013 byr:1991 hcl:#7d3b0c ecl:hzl eyr:2026
-
-ecl:amb
-eyr:2027 hgt:155cm pid:586151564 iyr:2010
-byr:1949
-hcl:#18171d
-
-hgt:167cm
-iyr:2010 byr:1982 ecl:amb
-cid:235 pid:557737957 eyr:2020
-hcl:#ceb3a1
-
-ecl:grn byr:1939 hcl:#733820
-eyr:2026 pid:993218958 iyr:2010
-hgt:150cm
-
-hgt:68in ecl:blu
-byr:1965 iyr:2017 pid:854858050 eyr:2021
-
-ecl:gry pid:347763159 eyr:2024 iyr:2017 byr:1961
-hgt:151cm
-hcl:#623a2f
-
-ecl:utc hcl:#602927
-pid:#1408ff byr:1941
-cid:82
-iyr:2015 hgt:185cm eyr:2028
-
-iyr:2020 hgt:151cm eyr:2025
-byr:1934 hcl:#888785
-pid:396545094 ecl:oth
-
-hgt:153cm
-eyr:2028 hcl:#733820 ecl:gry iyr:2019
-pid:081352630 byr:1943
-
-eyr:2030
-iyr:2011
-ecl:grn pid:313741119
-hgt:161cm byr:1946
-hcl:#a97842
-
-byr:1968 ecl:gry
-pid:742357550
-eyr:2024 hcl:#18171d iyr:2018
-hgt:157cm
-
-pid:387505919
-ecl:oth byr:1945
-iyr:2014
-hgt:190cm hcl:#888785
-eyr:2028
-
-iyr:2017 hgt:175cm
-byr:1989 eyr:2022
-hcl:#b6652a pid:499016802 ecl:gry cid:136
-
-pid:490807331 iyr:2016
-hcl:#ceb3a1
-hgt:150cm eyr:2026
-ecl:amb byr:1967
-
-iyr:2011
-hgt:155in
-hcl:#ceb3a1 pid:118497416
-eyr:2029 byr:2011 ecl:oth
-
-hcl:03a888 byr:2029
-ecl:#6f7292 eyr:1969 iyr:2028 hgt:162cm pid:73551266
-
-iyr:2016 hgt:182cm
-byr:1966 ecl:grn eyr:2022
-hcl:#fffffd pid:061720787
-
-byr:1971 hcl:z
-eyr:2035 pid:158cm
-ecl:#d3ec19
-
-hcl:#623a2f hgt:156cm eyr:2028
-ecl:brn iyr:2013
-byr:1980 pid:112283719
-
-eyr:2020
-byr:1956 iyr:2013
-hcl:#6b5442
-ecl:grn pid:876589775 hgt:179cm
-
-hgt:138
-byr:2013 eyr:2040 iyr:2028 cid:197 ecl:#8844fd pid:8524414485
-hcl:z
-
-eyr:2040
-hgt:173in hcl:z pid:#654654 byr:2016 iyr:2022 ecl:#452d22
-
-iyr:2012 cid:265 eyr:2021 hgt:192cm
-byr:1993 ecl:brn
-
-eyr:2026 hcl:#888785
-hgt:158cm byr:1942
-iyr:2015
-ecl:amb pid:546984106
-
-iyr:2019
-ecl:hzl
-byr:1922 eyr:2028 hgt:172cm
-pid:465052232 hcl:#602927
-
-pid:710362693 eyr:2023
-hcl:#c0946f byr:1951 ecl:grn
-iyr:2019 hgt:190cm
-
-iyr:2024 pid:#a08e69
-hcl:z byr:1966 ecl:#7b9978 eyr:2035
-hgt:69cm
-
-hcl:#efcc98
-pid:164cm
-iyr:2010 cid:194 hgt:71cm byr:1923 eyr:2026
-
-hgt:65in
-iyr:2019 byr:1969 pid:466669360 eyr:2022 ecl:brn hcl:#b6652a
-
-pid:42472559 hcl:#6f5763
-eyr:2035
-iyr:2014 hgt:154in byr:1939 ecl:grt cid:323
-
-pid:715680334 hgt:166cm cid:283
-byr:1982
-iyr:2015 eyr:2030 hcl:#ceb3a1 ecl:grn
-
-eyr:2018 iyr:2029
-ecl:brn
-byr:2022 pid:#ff6df1
-hcl:z
-hgt:68cm
-
-pid:094541122
-eyr:2024 byr:1940
-ecl:amb iyr:2019 hgt:64in hcl:#733820
-
-hgt:163in
-eyr:2022 ecl:utc hcl:#ceb3a1 iyr:2028
-
-ecl:gry pid:53552934
-hgt:193 byr:2021
-eyr:2028
-iyr:2011 cid:98 hcl:90c63f
-
-eyr:2024 hcl:#cfa07d ecl:brn
-iyr:2019 byr:1993 hgt:156cm pid:449484188
-
-iyr:2020
-hgt:164cm hcl:#623a2f
-pid:820731743 eyr:2025
-byr:1997 ecl:hzl
-
-hcl:47242b ecl:utc hgt:156
-pid:#9a9903 eyr:2030 iyr:1990
-byr:2011
-
-hcl:#602927
-hgt:189cm
-pid:949021883 iyr:2014 ecl:oth cid:327
-eyr:2027 byr:1953
-
-hgt:189cm cid:301
-byr:1982
-ecl:grn
-eyr:2028 hcl:#733820 pid:796040143 iyr:2015
-
-cid:169 iyr:2013 pid:355177646 byr:1988
-ecl:oth
-hcl:#cfa07d
-hgt:185cm eyr:2022
-
-pid:563150261 eyr:2020 ecl:brn byr:1996 hcl:#7d3b0c iyr:2018 hgt:189cm cid:84
-
-cid:188 eyr:2027
-byr:1944
-pid:486184923
-iyr:2010 hgt:193cm hcl:#341e13 ecl:oth
-
-iyr:2019
-byr:1969 hgt:152cm pid:430698432 ecl:gry hcl:#888785 eyr:2026 cid:293
-
-ecl:gry
-cid:270 hcl:#602927 iyr:2017 hgt:151cm eyr:2029 pid:051398739 byr:1954
-
-ecl:oth eyr:2030 pid:024655030
-hgt:184cm byr:1969
-hcl:#18171d
-
-eyr:2030
-pid:899973263 hgt:178cm byr:1987 hcl:#cfa07d iyr:2012
-ecl:amb
-
-iyr:1958 hgt:165cm pid:377677319
-ecl:grt eyr:2032 byr:2025
-hcl:bbfbe2
-
-ecl:blu
-iyr:2016
-hgt:152cm byr:1964
-hcl:#c4f777
-eyr:2021
-pid:044307549 cid:80
-
-ecl:brn pid:330836320
-byr:1963 cid:217 hgt:169cm
-eyr:2024
-iyr:2019 hcl:#ceb3a1
-
-byr:1976 eyr:2027
-pid:452662874 hgt:192cm ecl:oth iyr:2018 hcl:#602927
-
-eyr:2027 hgt:183cm ecl:brn iyr:2017 hcl:#341e13 pid:827463598
-
-ecl:brn pid:930667228 cid:310 iyr:2020
-eyr:2027 hgt:160cm byr:1932 hcl:#c0946f
-
-pid:955804028 byr:1983
-hcl:#fffffd
-hgt:178cm iyr:2013
-eyr:2021 ecl:gry
-
-hgt:189cm eyr:2021 pid:430243363 iyr:2015 hcl:#ceb3a1
-byr:2000 ecl:oth cid:284
-
-pid:436671537 hcl:#cfa07d iyr:2011 cid:106 hgt:171cm
-ecl:blu eyr:2021 byr:1943
-
-eyr:2028 hgt:169cm
-iyr:2015 pid:177443573 byr:1945
-hcl:#c0946f ecl:gry
-
-hcl:#fffffd byr:1995 eyr:2021
-ecl:grn
-hgt:192cm iyr:2010 pid:754912745
-
-pid:330882171 iyr:2015 cid:211 ecl:grn byr:1961 eyr:2021 hcl:z
-hgt:169cm
-
-byr:1926 eyr:2029 pid:178633665 cid:141 iyr:2017 hcl:#b99eb9
-hgt:178cm ecl:brn
-
-eyr:2022 ecl:hzl hcl:#cfa07d hgt:168cm iyr:2015
-byr:1982 pid:645675448
-
-ecl:blu byr:1980 hgt:186cm iyr:2010 cid:94 hcl:#c0946f eyr:2027 pid:384440210
-
-cid:309 hcl:#602927 hgt:192cm eyr:2027 ecl:amb
-pid:527932745 iyr:2012 byr:1982
-
-cid:132
-ecl:blu iyr:2016
-eyr:2027 byr:1940 hcl:#341e13 hgt:166cm pid:613386501
-
-pid:360563823 eyr:2028 byr:1990 iyr:2016
-ecl:blu cid:287 hgt:162cm hcl:#888785
-
-hgt:161cm
-byr:2002
-hcl:#623a2f pid:535361632
-ecl:gry eyr:2021 iyr:2013
-
-hgt:67in
-byr:1967
-cid:333 hcl:#cfa07d
-iyr:2012 eyr:2024 ecl:hzl pid:538161833
-
-ecl:#2bc145 eyr:1963 iyr:2030
-cid:241 hcl:2fc384 hgt:156in pid:2899917140
-byr:2005
-
-eyr:2021 pid:021590229 ecl:gry
-hgt:164cm iyr:2013 hcl:#efcc98 byr:1985
-
-ecl:hzl byr:1943
-cid:279 pid:979130395
-iyr:2011
-hgt:165cm
-eyr:2021
-hcl:#f331b3
-
-hgt:161cm
-hcl:#888785 byr:1981 pid:835477382 eyr:2025 iyr:2012
-cid:348
-ecl:blu
-
-hgt:159cm hcl:b4ce6a cid:319 eyr:2035 iyr:1965 ecl:oth
-byr:2010 pid:158cm
-
-iyr:2020
-eyr:2026 ecl:grn hcl:#a97842 pid:126915503
-hgt:178cm byr:1986
-
-hgt:184cm ecl:hzl
-cid:67 iyr:2020 eyr:2026 pid:168775568 byr:1944 hcl:#a97842
-
-hcl:#fffffd iyr:2016 pid:379463363
-ecl:oth
-hgt:179cm byr:1988
-eyr:2028
-
-hcl:#cfa07d ecl:amb eyr:2030 pid:320360020
-iyr:2016 hgt:172cm byr:1961
-
-cid:221 hcl:#cfa07d byr:1946 eyr:2024 ecl:oth pid:066950409 hgt:173cm
-iyr:2020
-
-hcl:#602927 eyr:2028 ecl:gry iyr:2019 pid:583204134 byr:1966 hgt:178cm
-
-byr:1930
-iyr:2020 ecl:hzl
-hcl:#ceb3a1 pid:285751767 cid:287 eyr:2023 hgt:192cm
-
-eyr:2024
-ecl:hzl cid:87 iyr:2015
-hgt:152cm hcl:#18171d pid:959574669
-byr:1990
-
-pid:45938863
-hcl:49c7ce cid:349 hgt:181cm
-eyr:2023 ecl:grn iyr:2015 byr:1948
-
-hcl:#866857 iyr:2012 ecl:amb cid:132 byr:1955 hgt:162cm pid:597748286 eyr:2023
-
-pid:293364535 byr:2024
-hgt:177cm eyr:2039
-iyr:2020 hcl:#dae928 ecl:hzl
-
-pid:212659709 iyr:2018
-hgt:188cm
-hcl:#efcc98 byr:1974 eyr:2029 ecl:oth cid:244
-
-cid:140
-ecl:amb
-eyr:2022 hgt:181cm hcl:#efcc98
-byr:1943
-iyr:2016
-
-cid:71 hgt:151cm pid:5063555219 eyr:2023 ecl:hzl
-byr:2019
-hcl:#7d3b0c iyr:2023
-
-hgt:157in pid:#298b06 iyr:2030 ecl:#66a631 eyr:2035 hcl:z byr:2019
-
-hgt:190cm iyr:1943
-pid:644021656 hcl:#6b621c
-ecl:oth eyr:2021 byr:1923
-
-ecl:hzl iyr:2012 eyr:2023 pid:881271720 hcl:#ceb3a1 hgt:172cm
-byr:1957
-
-iyr:2017 hcl:#888785
-ecl:amb hgt:170cm byr:1967 pid:198856675 eyr:2027
-
-eyr:2026
-ecl:gry
-pid:834980363 hcl:#733820 byr:1930
-hgt:175cm iyr:2018
-cid:214
-
-hcl:#efcc98 eyr:2029 iyr:2010 pid:980087545
-ecl:brn hgt:157cm
-
-pid:57513658 iyr:2011 byr:1993 ecl:brn eyr:2027 hcl:#6b5442 hgt:165cm
-
-ecl:hzl
-eyr:2025
-hcl:#733820
-hgt:169cm iyr:2018 cid:328 byr:1999 pid:694719489
-
-eyr:2023
-cid:125 byr:1925
-hgt:185cm pid:806769540 iyr:2013 ecl:hzl
-hcl:#866857
-
-iyr:2010 cid:225
-ecl:hzl eyr:2027 pid:615545523
-hcl:#733820
-byr:1994
-hgt:166cm
-
-byr:1941 ecl:gry iyr:2019 eyr:2026 hgt:73cm hcl:#602927
-pid:352996721
-
-pid:140250433
-eyr:2030 ecl:grn
-hcl:#fffffd iyr:2011 byr:1937 hgt:185cm
-
-ecl:gry byr:2002 iyr:2017 hcl:#b6652a cid:261 pid:178cm eyr:2022 hgt:166cm
-
-ecl:grn iyr:2010 eyr:2022 byr:1924
-pid:214641920 hcl:#ceb3a1
-hgt:155cm
-
-hcl:z pid:150cm ecl:utc iyr:1981
-eyr:2034
-hgt:156in cid:260 byr:2027
-
-byr:1987 hgt:66in
-eyr:2021 pid:876757018 iyr:2015 hcl:d596e4 ecl:hzl
-
-cid:116 ecl:oth hgt:180cm
-iyr:2020 byr:1942 hcl:#2fc31f
-eyr:2027
-pid:253569416
-
-pid:509387921
-eyr:2022
-hcl:#888785 ecl:oth hgt:193cm
-iyr:2012 cid:97
-byr:1975
-
-hcl:#18171d hgt:190cm pid:062827417 byr:1939
-iyr:2019 eyr:2022
-ecl:hzl
-
-iyr:2025
-byr:2028
-hgt:165in eyr:2027 pid:6259332452
-hcl:#478251
-
-iyr:2018 eyr:2026 pid:523863237
-hgt:187cm
-ecl:oth
-byr:1944
-hcl:#a97842
-
-hgt:181cm hcl:#733820 pid:923996316
-cid:110
-iyr:2011 byr:1949 ecl:blu eyr:2023
-
-pid:304792392 hcl:487823 eyr:2020
-hgt:70cm byr:2024
-iyr:1953
-ecl:blu
-
-pid:142200694
-ecl:oth hcl:#888785 eyr:2028
-hgt:152cm byr:1954 iyr:2018
-
-ecl:utc
-iyr:2015 byr:1932 hcl:#623a2f
-eyr:2027 hgt:183cm pid:036300444
-
-iyr:2014 ecl:hzl byr:1935 hgt:190cm hcl:#efcc98 pid:945893288
-eyr:2025
-
-hcl:#efcc98 pid:252639104 hgt:188cm
-byr:1998 iyr:2019 ecl:grn
-eyr:2023
-
-hcl:58aa4a byr:1930 hgt:193cm
-iyr:1998 cid:196 ecl:brn
-eyr:2032
-
-iyr:2015 ecl:hzl
-hgt:193cm pid:653794674 eyr:2024
-hcl:#fffffd byr:1921
-
-pid:980680460 byr:1962 ecl:blu
-iyr:2013
-hcl:#72cace
-eyr:2030
-hgt:180cm
-
-eyr:2025
-hgt:182cm hcl:#ceb3a1 iyr:2010 byr:1945 cid:314 pid:597769706 ecl:amb
-
-pid:761757504
-hcl:#888785 hgt:161cm iyr:2015
-byr:1939 eyr:2025
-cid:326 ecl:blu
-
-ecl:gry
-hgt:163cm byr:1981
-pid:330818500 iyr:2017 eyr:2024
-cid:71 hcl:#888785
-
-pid:190cm cid:267 iyr:2015 ecl:brn
-hcl:869252
-byr:1935 hgt:142 eyr:2033
-
-cid:239
-eyr:2038 ecl:lzr hcl:z iyr:1987 pid:4632768239
-hgt:162in
-
-pid:158038227 ecl:brn byr:1995 eyr:2028 hcl:#efcc98
-cid:252 iyr:2021
-hgt:184cm
-
-eyr:2027
-cid:124 ecl:amb hgt:165cm byr:1949
-pid:727126101 iyr:2010 hcl:#602927
-
-ecl:grn
-byr:1966 pid:184245393 hgt:164cm
-eyr:2022
-iyr:2014 hcl:#866857
-
-cid:62 hgt:180cm eyr:2027 hcl:#18171d
-iyr:2017 ecl:blu byr:1942 pid:930210027
-
-ecl:grn hgt:171cm iyr:2017 hcl:#fffffd eyr:2029 byr:1946 pid:863414762
-cid:95
-
-eyr:2025 ecl:grn iyr:2019 cid:226 hcl:#b6652a
-byr:1932 pid:715708549
-hgt:156cm
-
-pid:505158338 iyr:2019 byr:1981 hgt:193cm
-hcl:#696a5c cid:57 ecl:hzl eyr:2023
-
-byr:1987
-hgt:155cm cid:99 ecl:grn iyr:2010
-hcl:#c0946f eyr:2023
-pid:431067921
-
-hgt:190in
-hcl:z eyr:2029 pid:74228790
-iyr:2016 byr:2018 ecl:brn
-
-eyr:2022
-ecl:xry hgt:154cm pid:62205162
-iyr:2014 byr:1936
-cid:61
-
-ecl:amb eyr:2026
-byr:1966 cid:95 hcl:#733820 pid:957767251 iyr:2013 hgt:157cm
-
-byr:1969
-hgt:156cm iyr:2013 ecl:blu hcl:#a97842
-cid:183
-pid:960672229 eyr:2020
-
-iyr:2013
-cid:243 eyr:2028 hgt:192cm hcl:#efcc98
-ecl:grn pid:222407433 byr:1978
-
-iyr:2014 byr:1935
-eyr:2021 cid:235 pid:#1b34e1
-hcl:#89313f hgt:164cm ecl:blu
-
-ecl:hzl iyr:2016 cid:327
-byr:1923 pid:695935353 hgt:184cm
-hcl:#a97842
-eyr:2028
-
-pid:6010745668
-byr:1934 ecl:oth eyr:2020 hgt:164cm
-hcl:#733820
-iyr:2016
-
-ecl:blu pid:071991002 eyr:2021 byr:1978 cid:321
-hcl:#efcc98
-iyr:2013 hgt:68in
-
-ecl:grn iyr:2015 pid:137792524 cid:156
-hcl:#efcc98
-eyr:2029 byr:1955
-hgt:165cm
-
-byr:1949
-hgt:176cm pid:531868428
-hcl:#cfa07d ecl:brn iyr:2014 eyr:2024
-
-iyr:1955 cid:108 pid:712137140 byr:2019 eyr:2040 hgt:184cm hcl:220cfe ecl:#551592
-
-iyr:2016 eyr:2030
-hgt:177cm cid:137 ecl:brn
-hcl:#efcc98 pid:712202745 byr:1938
-
-pid:357180007 iyr:2010 ecl:grn
-byr:1991
-hcl:#341e13
-eyr:2020 hgt:159cm
-
-eyr:2023 ecl:grn
-hcl:#733820 iyr:2020 byr:1927 hgt:151cm
-pid:165936826
-
-ecl:gry
-pid:794227261 iyr:2014 eyr:2030
-hcl:#18171d
-byr:1994
-hgt:162cm
-
-iyr:2017 eyr:2024
-hcl:#7d3b0c cid:279
-ecl:gry byr:1981 hgt:176cm pid:973822115
-
-eyr:2029
-hgt:152cm hcl:#fffffd ecl:amb byr:1946 iyr:2013
-cid:62 pid:005240023
-
-iyr:2010
-ecl:amb hcl:#341e13 hgt:184cm
-eyr:2027
-pid:976217816 byr:1950
-
-ecl:grn hgt:178cm cid:192 hcl:#602927 pid:684333017 eyr:2022
-iyr:2011 byr:1987
-
-pid:306960973 ecl:hzl hgt:168cm
-byr:1954 iyr:2015 eyr:2029 hcl:#602927
-
-hcl:#18171d
-byr:1973 ecl:hzl hgt:174cm pid:922891164
-iyr:2013
-eyr:2023
-
-byr:1998 hgt:189cm pid:472066200 ecl:gry iyr:2012 eyr:2021 hcl:#c0946f cid:299
-
-iyr:2014
-eyr:2028 byr:1922 pid:594856217 hgt:158cm
-ecl:oth
-hcl:#623a2f
-
-pid:215206381 byr:1928
-hgt:163cm
-hcl:#b6652a ecl:oth iyr:2011
-
-cid:145 iyr:2013
-ecl:#38a290
-eyr:2034
-hcl:#602927 hgt:186cm pid:517498756
-byr:1945
-
-hcl:#5637d2 eyr:2030 byr:1955
-hgt:187cm
-pid:862655087 iyr:2014 ecl:grn
-
-hcl:#7d3b0c hgt:176cm iyr:2019
-eyr:2029 byr:1980 ecl:hzl
-cid:346 pid:703908707
-
-hgt:185cm
-iyr:2017
-cid:120 eyr:2020 hcl:#733820 ecl:blu pid:458522542 byr:1966
-
-pid:#725759
-hcl:#602927 iyr:2013 byr:2003 eyr:2023 cid:100
+﻿17,25,31,22,79,72,58,47,62,50,30,91,11,63,66,83,33,75,44,18,56,81,32,46,93,13,41,65,14,95,19,38,8,35,52,7,12,70,84,23,4,42,90,60,6,40,97,16,27,86,5,48,54,64,29,67,26,89,99,53,34,0,57,3,92,37,59,9,21,78,51,80,73,82,76,28,88,96,45,69,98,1,2,71,68,49,36,15,55,39,87,77,74,94,61,85,10,43,20,24
+
+36 11 70 77 80
+63  3 56 75 28
+89 91 27 33 82
+53 79 52 96 32
+58 14 78 65 38
+
+26 15 50 56  2
+20 27 42 11 16
+93 44 38 28 68
+66 88 78 81 77
+91 46 55 86  6
+
+46 53 14 17 75
+71  4 70 99 48
+65 96 68 80 72
+ 3 97 62 37 88
+82 35 36 23 39
+
+17  1 61 77  5
+74 60 12 24 48
+34 19 68 65 86
+44 59 38 40 95
+67 64  9 52 27
+
+44 60  8 81  3
+30 71 85 23 99
+68 88 38 97 48
+27 70 63 28 12
+67 57 34 13 93
+
+52 82 88 61  0
+68 21 59 75 71
+86 36 39 20 48
+50 40 19  6 34
+93 26 14 41 49
+
+74 18 93 59 77
+14 45 57 61 92
+10 78 42 63 52
+87  3  0 62 20
+25 64 48 22 96
+
+11 73 88 47 30
+10  6  5 25 67
+89 41 62 94 85
+45 99 58  7 57
+77 19 66 43 48
+
+94 47 45 73 44
+22  8 84 79  6
+14 58 26 92  5
+40 48 42 25  2
+37 76 18 80 74
+
+15  3 89 77 98
+13 99 10 97 59
+18 96 64 47 37
+68 92 90 56 11
+76 81 12 91 69
+
+82 97 69 47 10
+51 12 41 23 45
+71  6 67 80 46
+31 70 40  9 42
+27  1 17 25 74
+
+ 2 77  1 37 29
+50  8 87 12 76
+74 88 48 60 79
+41 35 92 33 34
+45 52 75 24 28
+
+97 41 49 40 96
+84 54 12 24 45
+39  1 17 85 52
+ 3 29 67 33  9
+50  7 47 48 81
+
+76 77 15 84 71
+41  7 32 29 62
+30 87 14 10 48
+98 22 96 45  9
+66 91 83 21 55
+
+20 42 33  9 91
+11 71 64 83 61
+82 54 67 38 60
+77 57 81 78 98
+18  1 27 55 87
+
+ 7 13 36 93 47
+45 25 44 58 72
+74 80 52 24 15
+64 43 96 42 20
+82 10 73 46 57
+
+40 36 86 87 76
+16 11 70 81 25
+55 31 83 72 88
+57 33 44 58  5
+64 15 19 67 53
+
+61 95 27  3 20
+85  1 76 25 80
+12 78 98 36  4
+86 90 19 64 38
+22 65 96 87 68
+
+11 52 17 89 64
+90 35 94 81 62
+65 30 51 67 85
+40 32 37 78 74
+97 27 10 96 91
+
+45 14 34 23 49
+79 21 90 56  4
+25 44 92  0 31
+16 24 88 48 84
+15 63 50 76 52
+
+42 31 84 64 24
+34 58 53  3 73
+56 35 33 89 41
+16  8 85 92  6
+40 19 51 14  4
+
+46 61 74 54 30
+35 79 63  8 10
+64 38 71 23 98
+59 72 83 70 50
+91 77 69 55 84
+
+93 40  9 49 66
+45 35 71 65 61
+ 5 14 20 83 10
+84 47 53 96 97
+ 6 30 77 52 67
+
+19 78 68 18 86
+94 82 16 21 95
+71 63 22  3 72
+91 27 59 49 11
+53 69 46 52 36
+
+44 94 30 21 22
+25 81 60 74 99
+32 62 10 79 39
+28 63 96 90 55
+58 85 93 36 76
+
+90 71 76 51 87
+26 64  2 49 19
+54 47 32 93 92
+88 69 24 60 94
+42 73 67 56 23
+
+ 8 22 47 12 10
+59 31 99 41 17
+60 23 37  0 57
+21 11 77 79 91
+50 34 16 72 15
+
+27 11 12  7 83
+ 9 50 47 84 35
+75 99 97 78 53
+20 70 51 76 44
+73 90  0 62 58
+
+60 49  0 40  8
+74 73 95  3 90
+27 39 10 19 35
+ 6 50 16 72 82
+71 36 11 99 52
+
+15 97  9 75 37
+33 65 30 18 10
+93 14 77 80 36
+82 35 88 12 21
+40 22 84 49 81
+
+18 74 94 79 17
+39 51 98  8 99
+33 63 50 65 40
+29 55 75 91 90
+24 54 87 97 48
+
+44 81 21 77 10
+ 8 52 54  5 88
+37 29 59 43 34
+70 30 86 31 56
+35 40 13  4 45
+
+12 84 38 37 54
+72 69 86 90 91
+31 45 15 52 59
+51  9  1 34 63
+53 29 20  3 56
+
+43 46 86 35 73
+94 87 90 39 95
+25  0 17 84 54
+22 27 76 26 63
+91 68  2 14 37
+
+67 63 20 21 27
+98 78  4 51 82
+74 86 46 12 56
+57 94 81 33 11
+29 13 83 37 40
+
+11 87 71 33 64
+52 97 91 79 24
+54 37 72 55  0
+21 67 80 51 10
+ 6 35 49 68 18
+
+27  7 95 81 93
+99 97 67 65 72
+59 92 32 43 50
+56 74 42 75 41
+13 36 79 78 23
+
+94  9 47 30 85
+ 5 80 86 55 11
+44 54 17 74 36
+22 98 84  7 88
+52 34  0 97 73
+
+10 70 26 89 28
+98 41 77 64 38
+46  8 22  5 29
+71 11 57 20 31
+97 90 50 95 51
+
+26 23 73 25 11
+80 97 68  7 27
+43 72 47 49 93
+ 2 21 50 82 66
+34 81 90 18 48
+
+79 61 33 42 50
+28 44 30 99 88
+57 14 35 60 31
+15 27 34 13 19
+72 71 64 76 21
+
+80 73 78 18 28
+79  1 76 42 58
+90 85 48 81 61
+52 44 51 53 39
+63 98 25 24 70
+
+22 63 35 31 11
+55 48 85 65 68
+49 52 40 74 97
+37 69 98 79 67
+ 2 91  7 41 16
+
+28 43 21 66 67
+56 88 77 37 41
+63 55 79 94 62
+61 60 23 45 87
+58 12 99 47 73
+
+ 2 21 26 27 42
+65 47 71 85  4
+76 13 40 56 29
+50 53 28 97 90
+17  1 14 74 48
+
+ 4 98 39 40 11
+90 88 87 86 13
+92 80 95 99 51
+54 18 70 34 38
+75 37 28 78 46
+
+ 7 11 73 51 47
+26 69 61 91 57
+55 48 14 94 82
+19 37 15 54 65
+25 43 90 16 81
+
+50 30 78  7 61
+99 32 91 13 21
+ 5 27 11 92 73
+71 54 29 20 12
+ 8 75 65  9 39
+
+84 13 22 90  7
+64  6 21  3 23
+ 8 72 67 61 62
+44 32 20 25 45
+57 81 49 98 77
+
+12  9 53 94  8
+85  0 70 35 82
+90 67 48 79 54
+26 88 51  2 46
+78 63 61 36 29
+
+86 27 13 55 37
+67 61 39  1 66
+79 97 40 42  7
+64 85 33 31 46
+34 65 24 54 50
+
+ 8 58 80 35 47
+31 66 45 36 54
+ 9 27 64 16  5
+34 14 10 57 85
+40 79 60 61  3
+
+49 31  2 25  9
+34 65 14 54 61
+88 28 45  3 76
+ 7 94 24  1 86
+29 66 70 96 50
+
+72 35 31 84 37
+ 8 86  4 17 46
+39 80 43 11  3
+26 76 44 20 95
+71  5 51 65 32
+
+98 33  8 41 75
+94 49 27 95 72
+44 18 82  0 90
+86 74  2 59 45
+20 57 25 87 42
+
+64 72 33 23 96
+70  2 68 97 69
+59 49 19 35 10
+87 92 85 34 90
+56 95 88 66 94
+
+97 23 75 47 43
+32 19 69 29 94
+45 38 61  4 40
+26 82 30 16  2
+95 76  5 67 83
+
+ 4 75 91 82 23
+52 38 47 49 46
+97 17  6 90 59
+ 8 16 12 73 85
+88 64 32 99 11
+
+ 2 61 15  7 37
+45 57 43 46 92
+76 99 34 14  9
+51  8 18 81 50
+19 47 97 29 26
+
+70 61 79 67 17
+25 69 78  4 24
+87 11 95 68 91
+51 89 39 66 80
+29 98 43 64 86
+
+95 40 97 32 48
+44  0 64 45 83
+34 88 20 86 31
+84 16 96 78 65
+ 2 81 72 69 43
+
+98 88 93  3 10
+53 72 68 81 62
+56 38 36 87 27
+29 99 76 28 23
+16 59 71 21 92
+
+95 17  8  7 46
+71 61  5 90 38
+63 65 25 45 22
+11 16 93 34 14
+55 56 36 91 49
+
+61 36  9 12 40
+60 51 57 41 87
+35 97 75 20 21
+74 34 19 14 95
+84 68 98 62  0
+
+ 3  5 57 40 61
+30 79 94 86 84
+20  9 13 27 34
+59 98 17 12 14
+28 73 18 97 75
+
+ 3 86 99 48  2
+65 97 26 82 79
+51 16 70  7 89
+22 83 50 78 32
+31 72 28 21 60
+
+67 27 78 91 14
+21  4 20 42 62
+52  3 36 17 18
+ 6 40 46 39 63
+80 75 54 96 99
+
+89 77 18 59 99
+ 5 55 14 52 12
+91 70 85 16 24
+72 42 80 81 76
+46 95 37 23 11
+
+48 66 23 26 15
+16 76 81 10 49
+57 74 68 67 98
+43 31 53 94 86
+80 71 85  0 33
+
+95 69 45 80 35
+38 88 62 28  1
+44 10 91 39 31
+74 81 64 63 98
+33 13 89 53 56
+
+85 22 55 95 44
+93  9 58 11 27
+15 40  2 28 87
+ 5 84 77 48 42
+94 18 16 12 79
+
+69 74 75 16 77
+45 56 60 81 68
+33 73 49 14 92
+94 51 24 38 15
+90 10 89  6 32
+
+15 86 73 20 71
+ 7 33 47 36 96
+31 55 87 22 14
+13 35  8 77 89
+ 3 37 98 52 34
+
+92 79 95 74 85
+19  3  5 73 67
+93 41 81 78 77
+48 88 57 82 15
+36 38 42  4 69
+
+87 36 38 65 91
+18 47 41 66 35
+ 0 63 59 54 10
+44  1 37 81 48
+75 96 42  4 25
+
+14 19 63  8 36
+35 38 84 66 42
+99  7 70 74  6
+ 4 12 86 65 22
+46 40 60 31 80
+
+38 29 26 65 85
+21  6 15 77 14
+61 25 86 12 35
+71 67 74 59 42
+46 52 30 19 93
+
+10 61 18 67 26
+15 27 20 62 38
+58 24 28 45 90
+98 39 59  3 92
+64 35 60 68 19
+
+34 44 11 25 56
+ 2 63  5 94 76
+72 92  0 27 84
+60  8 80 48 90
+23  7 75 70 47
+
+78 18 19 34 39
+31 66 95  9 36
+64 99 57 94 75
+29 97 51 45 47
+93 79 23 84 24
+
+72 23 78 90 21
+41 67 31  4 57
+34 58 50 46 74
+55 37 81 63 45
+85  8 48 28 12
+
+18 30 28 50 81
+67 47 41 45 59
+51 14 92  6 68
+ 8 46 69 84 13
+93 25 58 26 75
+
+76 16 78 36 18
+ 3  7 28 73 41
+34 97 42 23  8
+ 9 67 49 83 64
+81  5 29 85 79
+
+ 3 35 80 53  5
+91 96 77 52 69
+44 32  4 60 26
+41 13 28 39 64
+73 27 34 71 92
+
+72  4 77 80 29
+32 36 70 47 79
+96 56 69  2 90
+13 20 24 81 67
+23 25 83 89 91
+
+32 46 88 81 75
+ 5 98 15 72 31
+56 89 90 21 16
+37  2 82 93 18
+63 52 49 19 41
+
+52 51 76 91 33
+29 37 32 43 42
+27 34 21 72 87
+62 64  8 73 41
+23 46 67 96 85
+
+82 19  5 88 54
+71 27 92 48 16
+25 96 40 56 37
+41 11 26 58 95
+63 17  1  0 24
+
+46 36 85 78 32
+55 50 94  9 57
+ 0 20 24 68 28
+52 22  3 84 17
+16  2  1 66 69
+
+14 87 83 79 36
+ 9 64 77 49 24
+25 92  5 62 91
+73 33 74  6 65
+39  2 59 71 50
+
+99  0 48 98 45
+50 27 92  8 73
+91 80 54 42 57
+18 78 55 19 36
+76 28 53  6  7
+
+29 68 27 95 47
+40 32 79 60  2
+44 53 57  6 25
+41 56 66 30 77
+26 13 83 23 51
+
+ 7 76 59 44 22
+81 15 48  8 47
+77 79 32 61 39
+65 29 95 35 45
+ 1  6 13  9  3
+
+ 3 52 93 20 70
+49 80 40 66 53
+ 2 71 41  1 13
+44 24 15 83  0
+14 17  7 56 63
+
+77 12 99 19 21
+62 63 98 56 66
+28  4 22 68 55
+49 65 96 84 57
+41 74 46 60 53
+
+64  7 16  8 38
+55 68 21 43 99
+92  0 79 35 96
+75 28 51 87 53
+57 73 84 18  3
+
+95 90 17 40 51
+46 12 23 91 38
+80 10 68  9 93
+65 69 49 27 66
+94  4 39 97 31
+
+ 4 64 39  3 33
+26 88 10 96 54
+21 48  7 78 50
+22 90 16 15 72
+92  2 71 70 68
+
+42 26 72 54 41
+97 94 80 47 63
+19 24 90 78  6
+48 34 50 98 89
+33 81 66 38 10
+
+65 24 23  1 19
+54 35 76 71 49
+10 75 99 91 97
+21 78 17 18 81
+ 3 48 72  7 96
