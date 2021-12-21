@@ -19,7 +19,9 @@
     <None Remove="Data\Day16_0.txt" />
     <None Remove="Data\Day17_0.txt" />
     <None Remove="Data\Day18_0.txt" />
+    <None Remove="Data\Day18_1.txt" />
     <None Remove="Data\Day19_0.txt" />
+    <None Remove="Data\Day19_1.txt" />
     <None Remove="Data\Day1_0.txt" />
     <None Remove="Data\Day20_0.txt" />
     <None Remove="Data\Day21_0.txt" />
@@ -81,7 +83,13 @@
     <Content Include="Data\Day17_0.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Data\Day18_1.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Data\Day18_0.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Day19_1.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Data\Day19_0.txt">
